@@ -1,0 +1,83 @@
+.About-Me-Section{
+    font-family: 'Courier New', Courier, monospace;
+    color:  white;
+    text-align: center;
+}
+
+.Opening-Statement{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+}
+
+.List-of-Key-Skills-Title{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    text-align: left;
+}
+
+.Key-Skills-Section{
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    text-align: left;
+}
+
+.Soft-Skills-Title{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    text-align: left;
+}
+
+.Soft-Skills-Section{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+
+}
+.Career-Trajectory-Title{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-align: center;
+}
+
+.Career-Trajectory-Section{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    text-align: center;
+}
+
+.Educational-Achievement-Title{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    text-align: left;
+}
+
+.Educational-Achievement-Section{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    text-align: left;
+}
+
+.Links-Project-Title{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text: left;
+}
+
+.Contact-Information-Title-Section{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text: left;
+}
+
+.Contact-Information-Section{
+    font-family:'Times New Roman', Times, serif;
+    color: black;
+    text-align: left;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-image: linear-gradient(turquoise, lightgrey);
+}
